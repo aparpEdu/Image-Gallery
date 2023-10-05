@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PicassoDemo</string>
+    <string name="courage">Courage</string>
+    <string name="samurai_jack">Samurai Jack</string>
+    <string name="johnny_bravo">Johnny Bravo</string>
+    <string name="cartoon_image">Cartoon image</string>
+    <array name="images">
+        <item>https://www.syfy.com/sites/syfy/files/styles/amp_featured_image/public/2019/11/courage-the-cowardly-dog.jpg</item>
+        <item>https://flxt.tmsimg.com/assets/p9077231_b_v10_aa.jpg</item>
+        <item>https://static.wikia.nocookie.net/samuraijack/images/5/5c/Samurai_Jack.png/revision/latest?cb=20130213201804</item>
+    </array>
+</resources>
